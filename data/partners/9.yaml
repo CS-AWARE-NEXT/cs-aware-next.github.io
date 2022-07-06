@@ -1,0 +1,8 @@
+name: "3rdPlace"
+image: "img/partners/3rdplace.png"
+url: "https://3rdplace.com/"
+description: "3rdPlace will provide the reference implementation for the AI based data quality assessment and correlation
+framework. The main contributions are focused in WP3 (Objective 3) and WP6 (Objective 7). 3rdPlace will
+contribute to the scientific dissemination of the project. 3rdPlace can provide computational infrastructure for
+deployment that is able to deal with the requirements of AI based data processing."
+weight: 9

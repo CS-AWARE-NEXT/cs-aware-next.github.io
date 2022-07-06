@@ -1,0 +1,5 @@
+weight: 3
+name: "Improved data quality assessment and AI-based data correlation for utilising threat intelligence and social media in dynamic incident and risk management"
+icon: "fas fa-user-friends"
+url: ""
+description: "Provide a real-time data collection and AI framework that is able to collect information from a variety of sources (log files, threat intelligence, social media, ...) and correlate organizational and local/regional information (assets, dependencies, behaviour, ...) with contextual cybersecurity information coming from threat intelligence or social media discussions. The goal of the framework is to be able to (a) better predict systemic vulnerabilities and risks by mapping the organizational state with the cybersecurity landscape in a dynamic way, and (b) derive mitigation and disaster recovery/business continuity/self-healing strategies, building the knowledge base for the dynamic cybersecurity and incident management covered in other project objectives (policy framework, local/regional and multi-level collaboration, dynamic business continuity and self-healing as well as cybersecurity information sharing)."

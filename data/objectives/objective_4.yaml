@@ -1,0 +1,5 @@
+weight: 4
+name: "Dynamic disaster recovery, business continuity and system self-healing on the organisational and local/regional level"
+icon: "fas fa-band-aid"
+url: ""
+description: "Provide a framework for dynamic (real-time) creation and continuous reassessment of disaster recovery/business continuity options relevant to specific organizational or local/regional dependency set-ups to be able to deal with cascading effects. The framework will be designed to take into account systemic organizational and local/regional set-ups as well as general mitigation and recovery/ business continuity strategies shared via e.g. threat intelligence to predict and provide tailored recovery/ business continuity and self-healing strategies. The goal of this framework is the closer integration of disaster recovery/ business continuity, which is traditionally a risk management task, with the day-to-day (real-time) incident management. Therefore, the framework will provide integrations with cybersecurity incident management tools and advanced system self-healing tools for technical assistance and automated implementation of business continuity in case of an incident."
