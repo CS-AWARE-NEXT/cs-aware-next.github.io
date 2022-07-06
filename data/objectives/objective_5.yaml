@@ -1,5 +1,0 @@
-weight: 5
-name: "Improved integration of threat intelligence and information sharing in organisational cybersecurity management"
-icon: "fas fa-user-secret"
-url: ""
-description: "The generation and sharing of threat intelligence based on real-world evidence is one of the core pillars of the multi-level collaborative European cybersecurity framework. Collaboration and information sharing is already operational to some extend on the European and national levels (e.g. between competent authorities, CSIRTs), but when it comes to utilization of threat intelligence by individual organizations and local/regional networks in their day-to-day cybersecurity incident and risk management, there is currently little awareness and supporting procedures/tools available to streamline the process. Besides technical obstacles to improve the automation of the process, there are organizational/political as well as social/psychological issues involved that prevent organizations from sharing information about cybersecurity beyond legal obligations."
