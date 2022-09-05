@@ -1,7 +1,7 @@
 +++
 title = "The world is changing…"
 date = "2022-09-05T12:00:00+02:00"
-tags = ["Startups","Big Quit", "Local Public Administrations","Innovation ecosystem", "Information Sharing"]
+tags = ["Startups","Big Quit","Local Public Administrations","Innovation ecosystem","Information Sharing"]
 categories = ["all","status"]
 description = "The world is changing and startups are considered as agents of change."
 banner = "img/cs-aware.png"
@@ -10,7 +10,7 @@ authors = ["Adamantios Koumpis"]
 
 ## The world is changing…
 
-***… and startups are considered as agents of change.***
+… and startups are considered as **agents of change.**
 
 Young people now, as well as less young ones, quit their jobs ‘en masse’ and find substance and what each of us may understand in our own, individual ways as ‘meaning in life’ – this is what became to get known as the Great Resignation or the Big Quit.
 
