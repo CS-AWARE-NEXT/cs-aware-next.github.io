@@ -17,8 +17,9 @@ Young people now, as well as less young ones, quit their jobs ‘en masse’ and
 Many of us have been praised within conservative education and life cultures, feeling that taking risks is worth once you have a big organisation to support you. Many of us think like this, and many of us act like this – this is what finally contributes to make change not easy to accept and promote a culture that does the opposite: hinder change.
 
 Our market analysis and development work gave us two figures that relate to our two target markets, namely the NIS sector market and the market of Local Public Administrations:
-    • There are over one million European companies operating in the critical and important sectors defined by the NIS/NIS2 directive, and
-    • According to Eurostat there are around 96.000 European LPAs. 
+
+- There are over one million European companies operating in the critical and important sectors defined by the NIS/NIS2 directive, and
+- According to Eurostat there are around 96.000 European LPAs. 
 
 These figures are not what one might see as a niche market at all. They are extremely big numbers that justify the fostering of several innovation ecosystems that will have a trans-disciplinary and trans-regional character. Let’s see for instance the case we consider in the CS-AWARE NEXT project where two independent pilot studies will be conducted in Italy and Greece for the health care and the water and waste water management. There are lots of critical dependencies there. Only for the health sector, the recent (and still ongoing) COVID crisis revealed some of the major vulnerabilities of the European Healthcare system and in particular in areas where the digitalisation could or should be a game changer.
 
