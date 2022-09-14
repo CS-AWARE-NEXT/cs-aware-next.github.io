@@ -2,91 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS-AWARE-NEXT</title>
-    <link>/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on CS-AWARE-NEXT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The world is changing…</title>
+      <link>http://localhost:1313/blog/2022/09/05/cs_aware_next_the_hard_thing_about_impact/</link>
+      <pubDate>Mon, 05 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/09/05/cs_aware_next_the_hard_thing_about_impact/</guid>
+      <description>The world is changing… … and startups are considered as agents of change.
+Young people now, as well as less young ones, quit their jobs ‘en masse’ and find substance and what each of us may understand in our own, individual ways as ‘meaning in life’ – this is what became to get known as the Great Resignation or the Big Quit.
+Many of us have been praised within conservative education and life cultures, feeling that taking risks is worth once you have a big organisation to support you.</description>
+    </item>
+    
+    <item>
+      <title>Another attack…</title>
+      <link>http://localhost:1313/blog/2022/09/01/cs_aware_next_another_attack/</link>
+      <pubDate>Thu, 01 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/09/01/cs_aware_next_another_attack/</guid>
+      <description>Another attack… Last week, another attack against the UK&amp;rsquo;s National Health Service: this time the target was the NHS 111, a hot line helps people get the right advice and treatment when they urgently need it. So it is not about cinema ticket reservations or something else that one would consider as less important, less critical or less urgent.
+You can read about this here and here. So it is nothing new at all – same attacks took place last May in Carinthia in Austria.</description>
+    </item>
+    
+    <item>
+      <title>CS-AWARE Next Project successfully launched!</title>
+      <link>http://localhost:1313/blog/2022/08/23/cs_aware_next_launched/</link>
+      <pubDate>Tue, 23 Aug 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/08/23/cs_aware_next_launched/</guid>
+      <description>CS-AWARE Next Project successfully launched!! A new Horizon Europe research project to help organisations and local &amp;amp; regional networks improve cybersecurity awareness and collaboration.
+A pan-European consortium led by the University of Oulu in Finland has successfully launched a new Horizon Europe project. The project is called CS-AWARE-NEXT and builds on the legacy of the CS-AWARE project, that was part of the Horizon 2020 Programme, a predecessor of Horizon Europe. The project application has been been successfully evaluated for all three dimensions related to scientific excellence, societal and economic impact and the quality of the research plan implementation.</description>
+    </item>
+    
     <item>
       <title>Hello world!</title>
-      <link>/blog/2022/04/28/hello-world/</link>
+      <link>http://localhost:1313/blog/2022/04/28/hello-world/</link>
       <pubDate>Thu, 28 Apr 2022 12:00:00 +0200</pubDate>
       
-      <guid>/blog/2022/04/28/hello-world/</guid>
+      <guid>http://localhost:1313/blog/2022/04/28/hello-world/</guid>
       <description>Hello world! Welcome to join our journey with CS-AWARE-NEXT, a cyber security research project funded by European Union&amp;rsquo;s Horizon Europe research and innovation programme! We will be updating the project&amp;rsquo;s progress and informing you about our arranged events and achieved results in this page with brief blog posts. If you are interested to follow our progress, make sure to follow us on Twitter to get notified when new posts are added so you don&amp;rsquo;t miss them!</description>
     </item>
     
     <item>
       <title></title>
-      <link>/publications/pub1/</link>
+      <link>http://localhost:1313/publications/pub1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/pub1/</guid>
+      <guid>http://localhost:1313/publications/pub1/</guid>
       <description>Publication placeholder This is a placeholder</description>
     </item>
     
     <item>
       <title>Consortium</title>
-      <link>/consortium/</link>
+      <link>http://localhost:1313/consortium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consortium/</guid>
+      <guid>http://localhost:1313/consortium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Want to hear more more about the project? Feel free to contact the project consortium members if you want to hear more about the project or participate in the workshops and events.
 For media inquiries, please contact the project coordinator.</description>
     </item>
     
     <item>
       <title>Impact</title>
-      <link>/project_impact/</link>
+      <link>http://localhost:1313/project_impact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project_impact/</guid>
+      <guid>http://localhost:1313/project_impact/</guid>
       <description>The main vehicle for exploitation of the CS-AWARE-NEXT project results (and thus the project’s pathways to impact) is the CS-AWARE Corporation, which intends to bring the project results to the market in the context of the CS-AWARE cybersecurity awareness and management platform. For further dissemination of project results, academic partners have interest in creating educational and research impact, while SMEs and industry partners have interest in advancing technological achievements and advancing the market introduction of project results.</description>
     </item>
     
     <item>
       <title>Objectives</title>
-      <link>/project_objectives/</link>
+      <link>http://localhost:1313/project_objectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project_objectives/</guid>
+      <guid>http://localhost:1313/project_objectives/</guid>
       <description>Objective 1: Improved organisational policy support for dynamic cybersecurity management Description: Provide a cybersecurity management policy framework for organizations to better address the dynamic and constantly changing cybersecurity landscape. This includes a tighter integration between classical risk management and incident management tasks, in order to e.g. be able to more dynamically manage disaster recovery and business continuity after an incident. Collaboration within the organization (between different departments) and with other actors in the multi-level European cybersecurity framework, starting from actors in the local/regional supply chain to actors and authorities on the national/European level, is an important aspect to be addressed by a modern organizational cybersecurity management policy framework.</description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>/project_overview/</link>
+      <link>http://localhost:1313/project_overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project_overview/</guid>
+      <guid>http://localhost:1313/project_overview/</guid>
       <description>Overview The mission of CS-AWARE-NEXT is to address cybersecurity and collaboration within local/regional (intra-organisational and supply chain) networks, in concert with the multi-level European cybersecurity framework as defined by the European cybersecurity strategy. This is achieved through the integration of new methods and tools for provisioning of improved disaster preparedness, multi-level information sharing and advanced AI-based self-healing, to aid in recovery and business continuity of inter-dependent NIS sector organizations in an effort to better address cascading cybersecurity issues.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/project_publications/</link>
+      <link>http://localhost:1313/project_publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project_publications/</guid>
+      <guid>http://localhost:1313/project_publications/</guid>
       <description>Reports and Deliverables Here you can find a list of public project reports and deliverables.
 Publication link placeholder</description>
     </item>
     
     <item>
       <title>Terms of Use</title>
-      <link>/tos/</link>
+      <link>http://localhost:1313/tos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tos/</guid>
+      <guid>http://localhost:1313/tos/</guid>
       <description>© CS-AWARE-NEXT Consortium, 2022-2024, all rights reserved.
 Reproduction is authorised, provided the original source is acknowledged. Any restrictions on use shall be clearly indicated.
 The content provided here is for general information purposes. We assume no warranty/liability for the accuracy, currency, completeness and availability of the information/services offered. In particular, no legal claims arising from the use of the information and services accessed may be established. They cannot replace comprehensive legal advice.</description>

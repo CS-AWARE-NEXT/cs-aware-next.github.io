@@ -2,17 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>status on CS-AWARE-NEXT</title>
-    <link>/categories/status/</link>
+    <link>http://localhost:1313/categories/status/</link>
     <description>Recent content in status on CS-AWARE-NEXT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/categories/status/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The world is changing…</title>
+      <link>http://localhost:1313/blog/2022/09/05/cs_aware_next_the_hard_thing_about_impact/</link>
+      <pubDate>Mon, 05 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/09/05/cs_aware_next_the_hard_thing_about_impact/</guid>
+      <description>The world is changing… … and startups are considered as agents of change.
+Young people now, as well as less young ones, quit their jobs ‘en masse’ and find substance and what each of us may understand in our own, individual ways as ‘meaning in life’ – this is what became to get known as the Great Resignation or the Big Quit.
+Many of us have been praised within conservative education and life cultures, feeling that taking risks is worth once you have a big organisation to support you.</description>
+    </item>
+    
+    <item>
+      <title>Another attack…</title>
+      <link>http://localhost:1313/blog/2022/09/01/cs_aware_next_another_attack/</link>
+      <pubDate>Thu, 01 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/09/01/cs_aware_next_another_attack/</guid>
+      <description>Another attack… Last week, another attack against the UK&amp;rsquo;s National Health Service: this time the target was the NHS 111, a hot line helps people get the right advice and treatment when they urgently need it. So it is not about cinema ticket reservations or something else that one would consider as less important, less critical or less urgent.
+You can read about this here and here. So it is nothing new at all – same attacks took place last May in Carinthia in Austria.</description>
+    </item>
+    
+    <item>
+      <title>CS-AWARE Next Project successfully launched!</title>
+      <link>http://localhost:1313/blog/2022/08/23/cs_aware_next_launched/</link>
+      <pubDate>Tue, 23 Aug 2022 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/08/23/cs_aware_next_launched/</guid>
+      <description>CS-AWARE Next Project successfully launched!! A new Horizon Europe research project to help organisations and local &amp;amp; regional networks improve cybersecurity awareness and collaboration.
+A pan-European consortium led by the University of Oulu in Finland has successfully launched a new Horizon Europe project. The project is called CS-AWARE-NEXT and builds on the legacy of the CS-AWARE project, that was part of the Horizon 2020 Programme, a predecessor of Horizon Europe. The project application has been been successfully evaluated for all three dimensions related to scientific excellence, societal and economic impact and the quality of the research plan implementation.</description>
+    </item>
+    
     <item>
       <title>Hello world!</title>
-      <link>/blog/2022/04/28/hello-world/</link>
+      <link>http://localhost:1313/blog/2022/04/28/hello-world/</link>
       <pubDate>Thu, 28 Apr 2022 12:00:00 +0200</pubDate>
       
-      <guid>/blog/2022/04/28/hello-world/</guid>
+      <guid>http://localhost:1313/blog/2022/04/28/hello-world/</guid>
       <description>Hello world! Welcome to join our journey with CS-AWARE-NEXT, a cyber security research project funded by European Union&amp;rsquo;s Horizon Europe research and innovation programme! We will be updating the project&amp;rsquo;s progress and informing you about our arranged events and achieved results in this page with brief blog posts. If you are interested to follow our progress, make sure to follow us on Twitter to get notified when new posts are added so you don&amp;rsquo;t miss them!</description>
     </item>
     

@@ -2,53 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/all/</loc>
+    <loc>http://localhost:1313/authors/adamantios-koumpis/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/all/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/big-quit/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/information-sharing/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/innovation-ecosystem/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/local-public-administrations/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/startups/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/status/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/09/05/cs_aware_next_the_hard_thing_about_impact/</loc>
+    <lastmod>2022-09-05T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/09/01/cs_aware_next_another_attack/</loc>
+    <lastmod>2022-09-01T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cs-aware-platform/</loc>
+    <lastmod>2022-09-01T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybercrime/</loc>
+    <lastmod>2022-09-01T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/health-service/</loc>
+    <lastmod>2022-09-01T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ransomware/</loc>
+    <lastmod>2022-09-01T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/collaboration/</loc>
+    <lastmod>2022-08-23T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/23/cs_aware_next_launched/</loc>
+    <lastmod>2022-08-23T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cs-aware-next/</loc>
+    <lastmod>2022-08-23T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-awareness/</loc>
+    <lastmod>2022-08-23T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/launch/</loc>
+    <lastmod>2022-08-23T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/04/28/hello-world/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/tags/information/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/tags/timeline/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/blog/2022/04/28/hello-world/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/publications/pub1/</loc>
   </url><url>
-    <loc>/tags/information/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/consortium/</loc>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>/categories/status/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/project_impact/</loc>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/project_objectives/</loc>
   </url><url>
-    <loc>/tags/timeline/</loc>
-    <lastmod>2022-04-28T12:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/project_overview/</loc>
   </url><url>
-    <loc>/publications/pub1/</loc>
+    <loc>http://localhost:1313/authors/project-team/unioulu/</loc>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>/consortium/</loc>
+    <loc>http://localhost:1313/project_publications/</loc>
   </url><url>
-    <loc>/contact/</loc>
-  </url><url>
-    <loc>/project_impact/</loc>
-  </url><url>
-    <loc>/project_objectives/</loc>
-  </url><url>
-    <loc>/project_overview/</loc>
-  </url><url>
-    <loc>/authors/project-team/unioulu/</loc>
-  </url><url>
-    <loc>/publications/</loc>
-  </url><url>
-    <loc>/project_publications/</loc>
-  </url><url>
-    <loc>/tos/</loc>
+    <loc>http://localhost:1313/tos/</loc>
   </url>
 </urlset>
