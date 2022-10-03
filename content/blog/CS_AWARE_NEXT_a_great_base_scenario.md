@@ -13,7 +13,7 @@ authors = ["Adamantios Koumpis"]
 Don't remember if have heard of this incident before, but this could actually be a great base scenario for CS-AWARE-NEXT.
 It is about the May 2021 ransomware attack on the Health Service Executive (HSE).
 
-At the end of the year 2021, a [report](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf) was published, that had been commissioned by the Health Services Executive (“HSE”). The report counts about 100 pages – so it is not what one might regard as a convenient reading for an evening discussion. However, there are many generic cybersecurity issues that the report raises that are to be addressed in the CS-AWARE Next project
+At the end of the year 2021, a [report](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf) was published, that had been commissioned by the Health Services Executive (“HSE”). The report counts about 100 pages – so it is not what one might regard as a convenient reading for an evening discussion. However, there are many generic cybersecurity issues that the report raises that are to be addressed in the CS-AWARE-NEXT project
 
 As the authors of the report note, “a number of the vulnerabilities that the ransomware attack highlighted are not unique to the HSE, and issues identified in this report will be found in other organisations”, concluding that “All organisations therefore need to consider the extent to which they are protected from a major cyber incident, and be prepared to respond and recover should they experience such an event” [page 12 of the PwC Independent Post Incident Review 2021].
 
