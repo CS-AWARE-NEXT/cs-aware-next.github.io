@@ -76,8 +76,8 @@ paginate = 10
     post       = 2
 
 [[menu.main]]
-    name       = "Resources"
-    identifier = "section.resources"
+    name       = "Visibility, media presence and events"
+    identifier = "section.visibility"
     url        = ""
     weight     = 2
     parent     = "menu.about"
@@ -87,7 +87,19 @@ paginate = 10
     name       = "GitHub"
     url        = "https://github.com/CS-AWARE-NEXT"
     weight     = 1
-    parent     = "section.resources"
+    parent     = "section.visibility"
+
+[[menu.main]]
+    name       = "Twitter"
+    url        = "https://twitter.com/cs_aware_next"
+    weight     = 1
+    parent     = "section.visibility"
+
+[[menu.main]]
+    name       = "Events"
+    url        = "/events/"
+    weight     = 1
+    parent     = "section.visibility"    
 
 [[menu.main]]
     name       = "Reports & Deliverables"
