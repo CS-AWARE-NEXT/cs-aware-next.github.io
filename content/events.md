@@ -4,9 +4,6 @@ date: 2022-10-20T12:42:58+03:00
 draft: false
 ---
 
-# Upcoming events
-
-
 ***
 ### [AI4Future](https://datrixgroup.com/ai4future/)
 
