@@ -102,6 +102,12 @@ paginate = 10
     parent     = "section.visibility"    
 
 [[menu.main]]
+    name       = "Podcasts"
+    url        = "/podcasts/"
+    weight     = 1
+    parent     = "section.visibility"  
+
+[[menu.main]]
     name       = "Reports & Deliverables"
     url        = "/project_publications/"
     weight     = 1
