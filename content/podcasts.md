@@ -21,5 +21,5 @@ Here the questions:
 
 3. Isn't it more difficult this approach? If you sell a product or a service, people can buy than if you ask them also to co-create value from their side.
 
-For the answers you have to listen to the podcast [here](placeholder).
+For the answers you have to listen to the podcast [here](https://raw.githubusercontent.com/CS-AWARE-NEXT/cs-aware-next.github.io/main/content/audio/ChrisWills_Podcast_3_Questions_final.mp3).
 ***  
