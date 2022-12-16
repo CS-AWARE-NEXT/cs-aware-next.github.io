@@ -7,7 +7,7 @@ draft: false
 ***
 ### 3 questions – 3 answers: The first CS-AWARE-NEXT Podcast
 
- We happy to announce the first CS-AWARE-NEXT Podcast with Chris Wills!
+ We are happy to announce the first CS-AWARE-NEXT Podcast with Chris Wills!
 
 Chris is Founder and Member of the Management Board of the CS-AWARE Corporation, and has worked as a member of the CS-AWARE project, leading the socio-technical analysis of the cybersecurity situations in the two major European cities that were partners in the project.
 
