@@ -3,7 +3,7 @@ title = "CriM -- Cyber Security Seminar and Workshops -- 2022"
 date = "2023-01-18T12:00:00+02:00"
 tags = ["CriM","Bart Preneel","cybersecurity","critical infrastructure"]
 categories = ["all","status"]
-description = ""CriM -- Cyber Security Seminar and Workshops -- 2022"
+description = "CriM -- Cyber Security Seminar and Workshops -- 2022"
 banner = "img/cs-aware.png"
 authors = ["Christian Wieser"]
 +++
