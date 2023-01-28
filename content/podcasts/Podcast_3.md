@@ -22,9 +22,6 @@ Here the questions:
 2.	Cybersecurity has not been your ‘historical’ business domain - it is now several years that you are involved in Research and Innovation projects in this area. How difficult - or easy - do you see that business development is in this field? which are the emerging trends? Please feel free to share with us any first-hand experiences you may have acquired in these years.
 3.	Young people nowadays face lots of challenges - should they commit to a career in a structured setting like a corporate environment that you offer jobs, or should they 'go solo' and build their own start-up? In case they choose the corporate setting, there is a trend now called 'quiet quitting' - this is actually not at all - in the past the term used was 'gravy train' so the idea to build a comfort zone within a secure working environment is not new at all... What are your experiences in this field? How attractive can be companies not only to attract talent but also keep and maintain it?
 
-For the answers you shall enjoy listening to the podcast here.
-
-
 For the answers you shall enjoy listening to the podcast [here](/audio/episode3_Matteo_and_Pierluigi.mp3).
 *** 
 
