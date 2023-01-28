@@ -1,6 +1,6 @@
 +++
 title = "3 questions – 3 answers: Starting up for 2023 with a discussion on ‘AI, the Universe and Everything’ with two Datrix C-level executives"
-date = "2022-12-22T12:00:00+02:00"
+date = "2023-01-25T12:00:00+02:00"
 tags = ["Podcast","Pierluigi Vacca","Matteo Bregonzio", "Datrix"]
 categories = ["all"]
 description = "3 questions – 3 answers: Starting up for 2023 with a discussion on ‘AI, the Universe and Everything’ with two Datrix C-level executives"
