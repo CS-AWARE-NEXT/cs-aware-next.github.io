@@ -1,7 +1,7 @@
 +++
 title = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
 date = "2023-01-30T12:00:00+02:00"
-tags = [“Scottish thistle”,”cyberattack”,”cybersecurity”,”awareness”]
+#tags = [“Scottish thistle”,”cyberattack”,”cybersecurity”,”awareness”]
 categories = ["all","status"]
 description = "Comparing the Scottish thistle to modern cyber defence systems"
 banner = "img/cs-aware.png"
