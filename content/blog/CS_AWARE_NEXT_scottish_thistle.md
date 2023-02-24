@@ -1,11 +1,11 @@
 +++
-title = "Article 15- 4961/2022 National Organisation for Cybersecurity Certification "
+title = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
 date = "2023-02-23T12:00:00+00:00"
-tags = ["certification","Greece"]
+tags = ["awareness"]
 categories = ["all","status"]
-description = "FIXME"
+description = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
 banner = "img/cs-aware.png"
-authors = ["Dr. George Apostolopoulos"]
+authors = ["Kim Gammelgaard"]
 +++
 
 ## The legend of The Scottish Thistle - the early version of a socio-technical defence system! 
