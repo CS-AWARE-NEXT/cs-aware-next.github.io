@@ -1,11 +1,11 @@
-+++
-title = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
-date = "2023-01-30T12:00:00+02:00"
-#tags = [“Scottish thistle”,”cyberattack”,”cybersecurity”,”awareness”]
+++
+title = "Article 15- 4961/2022 National Organisation for Cybersecurity Certification "
+date = "2023-02-23T12:00:00+00:00"
+tags = ["certification","Greece"]
 categories = ["all","status"]
-description = "Comparing the Scottish thistle to modern cyber defence systems"
+description = "FIXME"
 banner = "img/cs-aware.png"
-authors = [“Line T. Sieg”]
+authors = ["Dr. George Apostolopoulos"]
 +++
 
 ## The legend of The Scottish Thistle - the early version of a socio-technical defence system! 
