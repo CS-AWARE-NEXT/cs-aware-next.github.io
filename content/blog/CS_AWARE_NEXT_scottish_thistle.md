@@ -1,6 +1,6 @@
 +++
 title = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
-date = "2023-02-23T12:00:00+00:00"
+date = "2023-02-24T12:00:00+00:00"
 tags = ["awareness"]
 categories = ["all","status"]
 description = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
