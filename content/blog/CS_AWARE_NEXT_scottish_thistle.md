@@ -5,7 +5,7 @@ tags = ["awareness"]
 categories = ["all","status"]
 description = "The legend of The Scottish Thistle - the early version of a socio-technical defence system!"
 banner = "img/cs-aware.png"
-authors = ["Kim Gammelgaard"]
+authors = ["Line Thorsen Sieg"]
 +++
 
 ## The legend of The Scottish Thistle - the early version of a socio-technical defence system! 
