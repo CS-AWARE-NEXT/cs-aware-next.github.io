@@ -5,7 +5,7 @@ tags = ["cyberthreats","response"]
 categories = ["all","status"]
 description = "Supervised vs automated response to cyberthreats"
 banner = "img/cs-aware.png"
-authors = ["Dr. Alexandros Papanikolaou"]
+authors = ["Alex Papanikolaou"]
 +++
 
 ## Supervised vs automated response to cyberthreats
@@ -22,7 +22,3 @@ Handling cybersecurity incidents is usually faced with the following challenges:
  - Lack of training: Human operators need to be adequately trained on each cyber incident response system to use it effectively and/or protect the organisation against attacks.
 
 The interplay between AI-enabled incident handling and critical human factors needs to further be researched, with respect to the understanding of the system under protection, in order to mitigate cyber incidents more effectively.
-
-Alexandros Papanikolaou
-
-InnoSec, Greece
