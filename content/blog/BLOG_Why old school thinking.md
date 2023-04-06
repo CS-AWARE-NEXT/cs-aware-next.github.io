@@ -1,8 +1,8 @@
 +++
 title = "Why old school thinking?"
 date = "2023-03-28T11:07:00+02:00" ## please change and see the T separates Date and Time
-tags = ["FIXME","FIXME"]
-categories = ["all","FIXME"]
+tags = ["Cyber Security"]
+categories = ["all",]
 description = "Why old school thinking?"
 banner = "img/cs-aware.png"
 authors = ["John Forrester"]
