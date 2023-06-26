@@ -1,7 +1,7 @@
 +++
 title = "Συμμετοχή της ΔΕΥΑΛ στην 3η συνάντηση του Ευρωπαϊκού Προγράμματος CS-AWARE-Next στην πόλη Caltagirone της Κατάνια"
-date = "2013-0FIXME-18T12:00:00+02:00"
-tags = ["FIXME","FIXME"]
+date = "2023-06-23T12:00:00+02:00"
+tags = ["all","status"]
 categories = ["all","status"]
 description = "Συμμετοχή της ΔΕΥΑΛ στην 3η συνάντηση του Ευρωπαϊκού Προγράμματος CS-AWARE-Next στην πόλη Caltagirone της Κατάνια"
 banner = "img/cs-aware.png"
