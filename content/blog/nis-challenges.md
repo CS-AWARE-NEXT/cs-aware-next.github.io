@@ -1,6 +1,6 @@
 +++
 title = "NIS2 – Key Challenges on the Horizon"
-date = "2013-04-25T12:00:00+02:00"
+date = "2023-04-25T12:00:00+02:00"
 tags = ["NIS"]
 categories = ["all","status"]
 description = "NIS2 – Key Challenges on the Horizon"
