@@ -2,12 +2,14 @@
 title = "Enhancing your security with open-source tools”
 date = "2023-07-16T09:00:00+02:00"
 tags = ["cybersecurity","open-source"]
+description = "Enhancing your security with open-source tools"
+banner = "img/cs-aware.png"
 categories = ["all"]
 authors = ["Alsu Shakirzyanova"]
 +++
 
 
-## Enhancing your security with open-source tools”
+## Enhancing your security with open-source tools
 
 With cybersecurity gaining increased attention in Italy, it has emerged as the top priority for digital investment among businesses in 2023. Notably, both large enterprises and SMEs recognize the significance of robust cybersecurity measures. Recent data reveals that a staggering 61% of organisations with over 250 employees have chosen to boost their cybersecurity budgets in the past year. Moreover, the Italian cybersecurity market is projected to witness remarkable growth, reaching a value of 1.86 billion euros in 2022, reflecting an exceptional acceleration of +18% compared to the previous year. In this article, we delve into the realm of monitoring and analysis, exploring the potential of open-source solutions to strengthen cybersecurity defences and address the evolving challenges faced by Italian organisations.
 Fluentd
