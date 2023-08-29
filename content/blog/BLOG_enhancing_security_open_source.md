@@ -1,12 +1,8 @@
 +++
 title = "Enhancing your security with open-source tools”
-
 date = "2023-07-16T09:00:00+02:00"
-
 tags = ["cybersecurity","open-source"]
-
 categories = ["all"]
-
 authors = ["Alsu Shakirzyanova"]
 +++
 
