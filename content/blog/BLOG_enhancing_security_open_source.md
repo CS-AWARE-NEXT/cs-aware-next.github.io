@@ -1,11 +1,11 @@
 +++
-title = "Data poisoning attacks"
-date = "2024-01-25T12:00:00+02:00"
-tags = ["cybersecurity","Data poisoning"]
+title = "Enhancing your security with open-source tools”
+date = "2024-09-01T12:00:00+02:00"
+tags = ["cybersecurity","open source"]
 categories = ["all","status"]
-description = "Data poisoning attacks"
+description = "Enhancing your security with open-source tools”
 banner = "img/cs-aware.png"
-authors = ["Matteo Bregonzio"]
+authors = ["Alsu Shakirzyanova"]
 +++
 
 ## Enhancing your security with open-source tools
