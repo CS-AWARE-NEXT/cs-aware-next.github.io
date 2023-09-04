@@ -1,11 +1,11 @@
 +++
-title = "nhancing your security with open-source tools"
+title = "Enhancing your security with open-source tools"
 date = "2023-08-29T12:00:00+02:00"
 tags = ["cybersecurity","open source"]
 categories = ["all","status"]
-description = "nhancing your security with open-source tools"
+description = "Enhancing your security with open-source tools"
 banner = "img/cs-aware.png"
-authors = ["Alsu"]
+authors = ["Alsu Shakiryanova"]
 +++
 ## Enhancing your security with open-source tools
 
