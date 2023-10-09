@@ -1,12 +1,14 @@
 +++
-title = "Cybersecurity infrastructures - 'Ferrari fast and Fiat cheap'"
-date = "2022-09-27T12:00:00+02:00"
-tags = ["Looking forward","digital transformation","Public Administration"]
+title = "Enhancing your security with open-source tools"
+date = "2023-08-29T12:00:00+02:00"
+tags = ["cybersecurity","open source"]
 categories = ["all","status"]
-description = "Cybersecurity infrastructures - 'Ferrari fast and Fiat cheap'"
+description = "Enhancing your security with open-source tools"
 banner = "img/cs-aware.png"
-authors = ["Adamantios Koumpis"]
+authors = ["Alsu Shakiryanova"]
 +++
+## Enhancing your security with open-source tools
+
 
 ## Cybersecurity infrastructures - 'Ferrari fast and Fiat cheap'
 
