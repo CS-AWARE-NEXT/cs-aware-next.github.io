@@ -1,13 +1,12 @@
 +++
 title = "CS-AWARE NEXT received support from the Horizon Standardisation Booster"
-date = "2023-10-10T12:10:00+02:00"
-tags = ["standardisation", "HSbooster.EU"]
+date = "2023-08-29T12:00:00+02:00"
+tags = ["cybersecurity","open source"]
 categories = ["all","status"]
 description = "CS-AWARE NEXT received support from the Horizon Standardisation Booster"
 banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
-
 ## CS-AWARE NEXT received support from the Horizon Standardisation Booster
 
 
