@@ -1,7 +1,7 @@
 +++p
 title = "CS-AWARE NEXT received support from the Horizon Standardisation Booster"
 date = "2023-10-10T12:00:00+02:00"
-tags = ["standardisation"]
+tags = ["standardisation", "HSbooster.EU"]
 categories = ["all","status"]
 description = "CS-AWARE NEXT received support from the Horizon Standardisation Booster"
 banner = "img/cs-aware.png"
