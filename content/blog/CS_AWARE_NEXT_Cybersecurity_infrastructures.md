@@ -5,7 +5,7 @@ tags = ["cybersecurity","academia"]
 categories = ["all","status"]
 description = "New Cybersecuirty Master's Program in Oulu"
 banner = "img/cs-aware.png"
-authors = ["Alsu Shakiryanova"]
+authors = ["Christian Wieser"]
 +++
 ## New Cybersecuirty Master's Program in Oulu
 
