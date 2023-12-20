@@ -17,7 +17,7 @@ The danger comes when these little things line up in that all too familiar Domin
 It is the same thing with cyberattacks. It’s rarely just one thing going wrong, but a whole Domino line of things. 
 The good news? There are just as many places to strengthen and to make secure. It’s all about awareness! Let us have a look at an example, shall we?:
 A phishing e-mail is sent to the inbox of an employee
-
+ 
 ### Domino 1
 There should be a spam filter on the e-mail inbox to stop the e-mail before it arrives… But there isn’t and the spam e-mail arrives in the inbox
 
