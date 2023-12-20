@@ -8,7 +8,7 @@ banner = "img/cs-aware.png"
 authors = [“Line T. Sieg”]
 +++
 
-##Cybersecurity & the Domino effect 
+## Cybersecurity & the Domino effect 
 
 A cyberattack is rarely caused by one big thing, but more often a combination of many little things. We see it all the time in disaster documentary film, how even the tiniest little detail can start a chain reaction with devastating results. A chain reaction that could have been stopped if even just one of the Dominos in the line were missing. 
 Take documentary film about plane crashes for example. We know flying is safe, we know how high the security priority is. In the events of a crash, we hear of all the frustratedly many small errors and we are left wondering how so many things have been overlooked. 
