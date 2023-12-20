@@ -1,7 +1,7 @@
 +++
 title = "Cybersecurity and the Domino effect"
 date = "2023-12-20T13:00:00+01:00" ## please change and see the T separates Date and Time
-tags = [“Dominoeffect”]
+tags = ["Cyber-attack","cybersecurity"]
 categories = ["all", "status"]
 description = "Comparing cyberattacks with falling Dominos”
 banner = "img/cs-aware.png"
