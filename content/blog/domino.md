@@ -1,4 +1,12 @@
-+++ title = “Cybersecurity & the Domino effect” date = "2023-12-20T12:00:00+02:00" ## please change and see the T separates Date and Time tags = [“Dominoeffect”, ”cyberattack”, ”cybersecurity”, ”awareness”] categories = ["all","status"] description = "Comparing cyberattacks with falling Dominos” banner = "img/cs-aware.png" authors = [“Line T. Sieg”] +++
++++
+title = “Cybersecurity and the Domino effect” 
+date = "2023-12-20T13:00:00+01:00" ## please change and see the T separates Date and Time 
+tags = [“Dominoeffect”, ”cyberattack”, ”cybersecurity”, ”awareness”] 
+categories = ["all", "status"] 
+description = "Comparing cyberattacks with falling Dominos” 
+banner = "img/cs-aware.png" 
+authors = [“Line T. Sieg”]
++++
 
 ## Cybersecurity & the Domino effect 
 
