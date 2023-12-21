@@ -1,4 +1,4 @@
-
++++
 title = "How Local and Regional Authorities can improve their ransomware defenses"
 date = "2023-12-19T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["ransomware"]
