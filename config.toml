@@ -120,6 +120,12 @@ paginate = 10
     weight     = 4
 
 [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "/events/"
+    weight     = 4
+
+[[menu.main]]
     identifier = "podcasts"
     name       = "Podcasts"
     url        = "/podcasts/"
