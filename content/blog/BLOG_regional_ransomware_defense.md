@@ -5,7 +5,7 @@ tags = ["ransomware"]
 categories = ["all"]
 description = "How Local and Regional Authorities can improve their ransomware defenses"
 banner = "img/cs-aware.png"
-authors = ["Christian Wieser"]
+authors = ["John Forrester"]
 +++
 
 
