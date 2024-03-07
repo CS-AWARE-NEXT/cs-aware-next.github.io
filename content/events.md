@@ -5,41 +5,66 @@ draft: false
 ---
 
 ***
+
+### IEEE International conference on Big Data
+#### December 5th, 2023 in Sorrento, Italy
+
+
+[Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features](10.1109/BIGDATA59044.2023.10386480)  
+Authors: Anastasia Cotov, Carlo Bono, Cinzia Cappiello, Barbara Pernici
+
+***
+
+### CS-AWARE NEXT in TransAI 2023
+####  September 25th, 2023 in Laguna Hills, CA, USA
+
+
+[Addressing Critical Issues and Challenges for Dynamic Cybersecurity Management in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://doi.org/10.1109/TransAI60598.2023.00016)  
+Authors: Thomas Schaberreiter; Christian Wieser; Adamantios Koumpis; Christian Luidold; Jerry Andriessen; Cinzia Cappiello; Juha Röning
+
+***
+
+### S3: Sustainable, Secure, and Smart Collaboration Workshop
+#### September 20th, 2023 in Turin, Italy
+
+
+[Increasing Cybersecurity Awareness and Collaboration in Organisations and Local / Regional Networks: The CS-AWARE-NEXT Project](https://ceur-ws.org/Vol-3574/paper_5.pdf)  
+Authors: Christian Luidold, Thomas Schaberreiter, Christian Wieser, Adamantios Koumpis, Cinzia Cappiello, Tiziano Citro, Jerry Andriessen, Juha Röning
+
+[On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf)  
+Authors: Jerry Andriessen, Tiziano Citro, Thomas Schaberreiter, Luigi Serra
+
+***
+
+### International Conference on Very Large Databases
+#### August 28th, 2023 in Vancouver, Canada
+
+
+[About the Effects of Data Imputation Techniques on {ML} Uncertainty](https://ceur-ws.org/Vol-3462/QDB2.pdf)  
+Authors: Cinzia Cappiello, Federico Cerutti, Camilla Sancricca, Riccardo Zanelli
+
+[Data Quality and Data Ethics: Towards a Trade-off Evaluation](https://ceur-ws.org/Vol-3462/QDB1.pdf)  
+Authors: Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Camilla Sancricca, Letizia Tanca
+
+***
+
+### Symposium of Advanced Database Systems
+#### July 2nd, 2023 in Galzingano Terme, Italy
+
+
+[Data Quality and Fairness: Rivals or Friends?](https://ceur-ws.org/Vol-3478/paper68.pdf)  
+Authors: Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Sergio Cuzzucoli, Alessandro Dangelo, Camilla Sancricca, Letizia Tanca
+
+***
+
 ### [AI4Future](https://datrixgroup.com/ai4future/)
+#### October 21st, 2022 in Viterbo, Italy
 
-#### 21 October 2022
 
-#### Via Santa Maria in Gradi, 4
+🇪🇺The EU funded Horizon project CS-AWARE-NEXT, that will take part to AI4FUTURE and present an innovative cybersecurity framework to better address a dynamic and constantly changing landscape.
 
-#### 01100 Viterbo 
-
-🇪🇺The EU funded Horizon project CS-AWARE-NEXT, that will take part to AI4FUTURE and present an innovative cybersecurity framework to better address a dynamic and constantly changing landscape. 
-
-CS-AWARE-NEXT provides local supply chain dependencies with a socio-technical support for local/regional cooperation and collaboration, since the local/regional level is currently not considered in the multi-level cybersecurity framework established by the 2013/2020 European cybersecurity strategy and the NIS/NIS2 directive. 
+CS-AWARE-NEXT provides local supply chain dependencies with a socio-technical support for local/regional cooperation and collaboration, since the local/regional level is currently not considered in the multi-level cybersecurity framework established by the 2013/2020 European cybersecurity strategy and the NIS/NIS2 directive.
 
 On Friday at 4 pm Dr. Adamantios Koumpis (Research and Teaching Officer at Cologne University), together with Matteo Bregonzio, PhD will present this great opportunity.
  
 ***  
-
-### CS-AWARE NEXT in TransAI 2023
-#### 25 September 2023
-
-Our project was represented in the Fifth International Conference on Transdisciplinary AI (TransAI).
-
-The paper was authored by Thomas Schaberreiter of CS-AWARE Corporation OÜ, Christian Wieser of University of Oulu, Adamantios Koumpis of the University Hospital Cologne in Germany, Christian Luidold from the University of Vienna, Jerry Andriessen from Wise & Munro Learning Research, Cinzia Cappiello from the Politecnico di Milano and Juha Röning of University of Oulu.
-Christian Wieser has made the presentation in the Conference.
-
-***
-
-
-### S3: Sustainable, Secure, and Smart Collaboration Workshop
-#### 20 September 2023
-#### Hosted by CHITALY 2023, Turin, Italy
-
-We participated in the S³C: Sustainable, Secure, and Smart Collaboration Workshop that was held as part of the CHITALY 2023 Conference.
-
-The aim of the S³C workshop is to connect researchers, industries, educators, and technologists involved in different and diverse areas connected to HCI blended with immersive systems, smart cities, and security awareness which can take advantage of the collaboration. HCI and the User Experience forms an important part of our work in the CS-AWARE NEXT project and our presentation in the workshop with highlights of the solutions we are deploying won people’s attention and attracted interest for future collaborations.
-
-Our paper was authored by Christian Luidold, Thomas Schaberreiter, Christian Wieser, Adamantios Koumpis, Cinzia Cappiello, Tiziano Citro, Jerry Andriessen and Juha Röning.
-
-***
