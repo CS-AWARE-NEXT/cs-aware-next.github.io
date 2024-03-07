@@ -10,8 +10,8 @@ draft: false
 #### December 5th, 2023 in Sorrento, Italy
 
 
-[Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features](10.1109/BIGDATA59044.2023.10386480)  
-Authors: Anastasia Cotov, Carlo Bono, Cinzia Cappiello, Barbara Pernici
+**Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features** 
+Authors: _Anastasia Cotov, Carlo Bono, Cinzia Cappiello, Barbara Pernici_
 
 ***
 
@@ -19,8 +19,8 @@ Authors: Anastasia Cotov, Carlo Bono, Cinzia Cappiello, Barbara Pernici
 ####  September 25th, 2023 in Laguna Hills, CA, USA
 
 
-[Addressing Critical Issues and Challenges for Dynamic Cybersecurity Management in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://doi.org/10.1109/TransAI60598.2023.00016)  
-Authors: Thomas Schaberreiter; Christian Wieser; Adamantios Koumpis; Christian Luidold; Jerry Andriessen; Cinzia Cappiello; Juha Röning
+[**Addressing Critical Issues and Challenges for Dynamic Cybersecurity Management in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project**](https://doi.org/10.1109/TransAI60598.2023.00016)  
+Authors: _Thomas Schaberreiter, Christian Wieser, Adamantios Koumpis, Christian Luidold, Jerry Andriessen, Cinzia Cappiello, Juha Röning_
 
 ***
 
@@ -28,11 +28,11 @@ Authors: Thomas Schaberreiter; Christian Wieser; Adamantios Koumpis; Christian L
 #### September 20th, 2023 in Turin, Italy
 
 
-[Increasing Cybersecurity Awareness and Collaboration in Organisations and Local / Regional Networks: The CS-AWARE-NEXT Project](https://ceur-ws.org/Vol-3574/paper_5.pdf)  
-Authors: Christian Luidold, Thomas Schaberreiter, Christian Wieser, Adamantios Koumpis, Cinzia Cappiello, Tiziano Citro, Jerry Andriessen, Juha Röning
+[**Increasing Cybersecurity Awareness and Collaboration in Organisations and Local / Regional Networks: The CS-AWARE-NEXT Project**](https://ceur-ws.org/Vol-3574/paper_5.pdf)  
+Authors: _Christian Luidold, Thomas Schaberreiter, Christian Wieser, Adamantios Koumpis, Cinzia Cappiello, Tiziano Citro, Jerry Andriessen, Juha Röning_
 
-[On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf)  
-Authors: Jerry Andriessen, Tiziano Citro, Thomas Schaberreiter, Luigi Serra
+[**On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms**](https://ceur-ws.org/Vol-3574/paper_4.pdf)  
+Authors: _Jerry Andriessen, Tiziano Citro, Thomas Schaberreiter, Luigi Serra_
 
 ***
 
@@ -40,11 +40,11 @@ Authors: Jerry Andriessen, Tiziano Citro, Thomas Schaberreiter, Luigi Serra
 #### August 28th, 2023 in Vancouver, Canada
 
 
-[About the Effects of Data Imputation Techniques on {ML} Uncertainty](https://ceur-ws.org/Vol-3462/QDB2.pdf)  
-Authors: Cinzia Cappiello, Federico Cerutti, Camilla Sancricca, Riccardo Zanelli
+[**About the Effects of Data Imputation Techniques on {ML} Uncertainty**](https://ceur-ws.org/Vol-3462/QDB2.pdf)  
+Authors: _Cinzia Cappiello, Federico Cerutti, Camilla Sancricca, Riccardo Zanelli_
 
-[Data Quality and Data Ethics: Towards a Trade-off Evaluation](https://ceur-ws.org/Vol-3462/QDB1.pdf)  
-Authors: Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Camilla Sancricca, Letizia Tanca
+[**Data Quality and Data Ethics: Towards a Trade-off Evaluation**](https://ceur-ws.org/Vol-3462/QDB1.pdf)  
+Authors: _Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Camilla Sancricca, Letizia Tanca_
 
 ***
 
@@ -52,8 +52,8 @@ Authors: Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Camilla Sancricca, 
 #### July 2nd, 2023 in Galzingano Terme, Italy
 
 
-[Data Quality and Fairness: Rivals or Friends?](https://ceur-ws.org/Vol-3478/paper68.pdf)  
-Authors: Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Sergio Cuzzucoli, Alessandro Dangelo, Camilla Sancricca, Letizia Tanca
+[**Data Quality and Fairness: Rivals or Friends?**](https://ceur-ws.org/Vol-3478/paper68.pdf)  
+Authors: _Fabio Azzalini, Cinzia Cappiello, Chiara Criscuolo, Sergio Cuzzucoli, Alessandro Dangelo, Camilla Sancricca, Letizia Tanca_
 
 ***
 
