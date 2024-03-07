@@ -10,7 +10,7 @@ draft: false
 #### December 5th, 2023 in Sorrento, Italy
 
 
-**Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features** 
+**Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features**  
 Authors: _Anastasia Cotov, Carlo Bono, Cinzia Cappiello, Barbara Pernici_
 
 ***
