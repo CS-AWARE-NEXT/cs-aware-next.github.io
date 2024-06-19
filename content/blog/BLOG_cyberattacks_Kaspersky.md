@@ -5,7 +5,7 @@ tags = ["Cyberattack"]
 categories = ["all"]
 description = "New investigation by Kaspersky on Cyber Attacks"
 banner = "img/cs-aware.png"
-authors = ["Elisavet Goutman"]
+authors = ["OTS"]
 +++
 
 ## New investigation by Kaspersky on Cyber Attacks 
