@@ -1,6 +1,6 @@
 +++
 title = "New investigation by Kaspersky on Cyber Attacks"
-date = "2023-06-11T14:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2024-06-11T14:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["Cyberattack"]
 categories = ["all"]
 description = "New investigation by Kaspersky on Cyber Attacks"
