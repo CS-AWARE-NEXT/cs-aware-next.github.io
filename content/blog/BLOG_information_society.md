@@ -1,7 +1,7 @@
 
 +++
 title = "Information Society is leading the battle for Cybersecurity"
-date = "2024-06-19T13:00:00+02:00"
+date = "2024-06-18T13:00:00+02:00"
 tags = ["cybersecurity"]
 categories = ["all"]
 description = "Information Society is leading the battle for Cybersecurity"
