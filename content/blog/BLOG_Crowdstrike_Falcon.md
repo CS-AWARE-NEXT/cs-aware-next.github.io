@@ -1,6 +1,6 @@
 +++
 title = "The Crowdstrike Falcon outage"
-date = "2023-07-24T13:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2024-07-24T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["Outage", "Crowdstrike", "Falcon", "Windows"]
 categories = ["all"]
 description = "The Crowdstrike Falcon outage"
