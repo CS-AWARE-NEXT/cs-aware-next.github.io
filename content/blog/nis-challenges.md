@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Christian Luidold"]
 +++
 
-## NIS2 – Key Challenges on the Horizon
 
 About ten years ago the proposal of the original NIS-Directive was introduced into our lives. It was the first cybersecurity act in the EU, creating a new baseline for cybersecurity. Unfortunately the effects of the original NIS weren't as good as initially hoped. Its objectives of increasing the level of security of network and information systems across the union were hindered by problems regarding different levels of resilience among member states, insufficient resilience of individual organisations, and ineffective oversight by government authorities. The decision was made to issue an updated act to take its place. In a little over 1,5 years, by October 18th 2024 to be precise, the successor will be incorporated into national law by each member state.
 

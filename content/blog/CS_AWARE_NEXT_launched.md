@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## CS-AWARE Next Project successfully launched!!
 
 ***A new Horizon Europe research project to help organisations and local & regional networks improve cybersecurity awareness and collaboration.***
 

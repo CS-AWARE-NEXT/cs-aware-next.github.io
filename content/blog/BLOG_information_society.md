@@ -8,7 +8,6 @@ description = "Information Society is leading the battle for Cybersecurity"
 banner = "img/cs-aware.png"
 authors = ["OTS"]
 +++
-## Information Society is leading the battle for Cybersecurity
 
 The Ministry of Digital Governance (MDG) in Greece is implementing a set of projects through Information Society for the protection of public bodies against cyberattacks. 
 

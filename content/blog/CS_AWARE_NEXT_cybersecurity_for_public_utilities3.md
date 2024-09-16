@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["John Forrester"]
 +++
 
-## Cybersecurity For Public Utilities Solutions III
 
 Failing to understand the gravity of the potential effects of a power grid attack leaves municipal utility companies unprepared to enact the necessary cybersecurity counter-measures necessary to prevent or, at least, mitigate attacks. As Miller [1], points out, local governments could benefit from the information that would lead to the early prevention of cyberattacks. Unfortunately, the information is often hidden or never revealed.  Although municipalities are obliged to report attacks in a timely fashion, they often avoid reporting attacks to maintain credibility. Nor do they necessarily see sharing of information about attacks as useful.
 

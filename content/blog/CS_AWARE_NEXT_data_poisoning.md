@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Matteo Bregonzio"]
 +++
 
-## Data poisoning attacks
 
 Data poisoning is an increasingly important security concern for Machine Learning (ML) systems. As machine learning models are becoming more prevalent in our lives, they are also becoming more vulnerable to malicious attacks. Data poisoning attacks are one of the most insidious and difficult-to-detect kinds of threats on ML models.
 

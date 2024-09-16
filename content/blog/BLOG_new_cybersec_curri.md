@@ -7,7 +7,6 @@ description = "New Cybersecuirty Master's Program in Oulu"
 banner = "img/cs-aware.png"
 authors = ["Christian Wieser"]
 +++
-## New Cybersecurity Master's Program in Oulu
 
 Cybersecurity is a new study option based on the research excellence in software security at the University of Oulu. The student specialising in cybersecurity will be able to design, develop, test and evaluate systems, software or hardware for security goals in the ever evolving digital landscape​.
 

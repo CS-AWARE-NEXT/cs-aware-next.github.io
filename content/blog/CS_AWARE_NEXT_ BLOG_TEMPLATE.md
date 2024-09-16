@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Cinzia Cappiello"]
 +++
 
-## Data-driven cybersecurity
 
 The availability of a large amount of data facilitates the spreading of a data-driven culture in which data are used and analyzed to support decision-making. This is also true for the cybersecurity environment in which the increasing number of threats appearing over time and related public data caused a “paradigm shift in understanding and defending against the evolving cyber attacks, from primarily reactive detection toward proactive prediction”. 
 

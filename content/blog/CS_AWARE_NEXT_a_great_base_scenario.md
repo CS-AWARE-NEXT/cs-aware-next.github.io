@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## A great base scenario for CS-AWARE-NEXT?
 
 Don't remember if have heard of this incident before, but this could actually be a great base scenario for CS-AWARE-NEXT.
 It is about the May 2021 ransomware attack on the Health Service Executive (HSE).

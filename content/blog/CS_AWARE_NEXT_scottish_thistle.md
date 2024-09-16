@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Line Thorsen Sieg"]
 +++
 
-## The legend of The Scottish Thistle - the early version of a socio-technical defence system! 
 
 Technology is getting both advanced and effective, but what good does it do if we don’t understand and use it properly? Humans have a long history of using tools to help us make our jobs easier or for keeping us safe. However, technology can only do so much on it’s own. It needs a human touch to fulfil its full potential. 
 

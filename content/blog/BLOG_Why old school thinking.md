@@ -9,7 +9,6 @@ authors = ["John Forrester"]
 +++
 
 
-## Why old school thinking?
 
 
 For many years, a report from Govloop in the US writes,  government agencies have applied a “hodgepodge of cyber-security strategies” to counter both internal and external risks. Many relied on firewalls to manage external activity and potential threats. In the end, the Govloop authors conclude that   Legacy firewalls tend to be more concerned with activity attempting to penetrate their perimeter defenses and do not monitor internal activities within the local network.

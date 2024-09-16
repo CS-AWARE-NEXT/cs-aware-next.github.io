@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## Another attack…
 
 Last week, another attack against the UK's National Health Service: this time the target was the NHS 111, a hot line helps people get the right advice and treatment when they urgently need it. So it is not about cinema ticket reservations or something else that one would consider as less important, less critical or less urgent. 
 

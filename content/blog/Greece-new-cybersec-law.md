@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Elisavet Goutman"]
 +++
 
-# Greece's new Cybersecurity Bill
 
 A bill on cyber security, telecommunication privacy issues and personal data has been submitted to the Greek parliament. In particular, the bill aims at “ensuring the necessary balance between privacy protection and national security, within the constitutional frame and in the foundation of the best international policies.” Additionally, the bill strengthens the “citizen’s rights against the threats that are connected to the technological evolution”.
 

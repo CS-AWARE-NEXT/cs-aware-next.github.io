@@ -8,6 +8,5 @@ banner = "img/cs-aware.png"
 authors = ["FIXME"]
 +++
 
-## FIXME
 
 FIXME

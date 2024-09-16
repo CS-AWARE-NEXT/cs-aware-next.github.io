@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Christian Wieser"]
 +++
 
-## CriM - Engaging the next generation of cyber security professionals
 
 
 During November 2022 we held the Cyber Security Seminar and Workshops in Oulu, Finland. This four days event has been held since 1999 and brings together teachers, researchers, experts, and students of cybersecurity: https://www.oulu.fi/en/crim. 

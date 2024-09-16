@@ -7,7 +7,6 @@ description = "The importance of user role definition and access restrictions"
 banner = "img/cs-aware.png"
 authors = ["Line Thorsen Sieg"]
 +++
-## The importance of user role definition and access restrictions
 
 Many of us have seen the cinematic masterpiece called The Lord of the Rings and can recall the scene where Pippin Took touches The Palantír (the glass orb looking thing with the eye of Sauron in it) and thus gave said villain an insight to his mind. 
 

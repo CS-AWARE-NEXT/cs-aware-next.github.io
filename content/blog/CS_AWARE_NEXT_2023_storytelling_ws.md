@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Jerry Andriessen"]
 +++
 
-## Storytelling Workshops 2022
 
 We have organised storytelling workshops in the two pilot sites of the project: the municipalities of Larissa and Foggia.  Representatives of multiple public and private organisations came together for four days for these workshops that were organised by our project. 
 

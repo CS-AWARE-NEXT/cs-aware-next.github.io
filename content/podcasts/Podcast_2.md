@@ -8,7 +8,6 @@ banner = "img/cs-aware-podcast.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-### 3 questions – 3 answers Christmas 2022 edition: The second CS-AWARE-NEXT Podcast
 
 We are happy to announce the second CS-AWARE-NEXT Podcast with Juha Röning!
 

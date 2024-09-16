@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Moussa Ouedraogo"]
 +++
 
-## A step towards DORA Compliance
 
 Most organizations, regardless of the vertical, are often engaged in complex and massive interconnections leading to some security challenges. As a result, individual and local initiatives alone may not suffice to effectively defend against current and future threats. Indeed, more synergy and collaboration amongst companies that are “shareholders in security” hence affected by the breach from others, is essential.  Recent EU cybersecurity initiatives including the NIS/NIS2 and DORA for the financial sector have ought to address the cybersecurity and resilience of both, organizations delivering essential and vital services on the one hand, and the financial services, on the other. According to both regulations, cyber risks from third party organizations and the ensuing disruption cannot be effectively managed without due attention to the supply chain risk management. 
 

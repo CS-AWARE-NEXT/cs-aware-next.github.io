@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## Startups in Europe – and elsewhere
 
 CS-AWARE Corporation is not only one of the partners of the CS-AWARE-NEXT Consortium, but also the main vehicle for the exploitation of all project outcomes and results. The company itself is a successful spin-out of the previous CS-AWARE Innovation Action and considered as a success story because we exhibited commitment to build a sustainable business that will help local public organisations increase their awareness and build capacities to successfully fight with cyber security threats. This might be our European perspective on how to build a business. Let us see a little more far away…
 

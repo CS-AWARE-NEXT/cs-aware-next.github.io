@@ -7,7 +7,6 @@ description = "CS-AWARE NEXT received support from the Horizon Standardisation B
 banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
-## CS-AWARE NEXT received support from the Horizon Standardisation Booster
 
 
 Our project had the opportunity to receive advisory services by the HSbooster.eu that is a European Commission initiative aiming to provide expert services to European projects to help them to increase and valorise project results by contributing to the creation of new or improvement of existing standards. 

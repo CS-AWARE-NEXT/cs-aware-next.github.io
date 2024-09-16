@@ -9,7 +9,6 @@ authors = ["Stefanos Kytanis"]
 +++
 
 
-## Cyberattack in Thessaloniki
 
 Five years ago the security of the digital infrastructures of the organisations was not even an object of discussion. Most though of security as a store room with a lock on the outside, a back-up external drive, that usually remained connected on the server, and an antivirus that in most of the cases was a free one. 
 

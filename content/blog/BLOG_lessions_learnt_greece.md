@@ -7,7 +7,6 @@ description = "Lessons learnt from cyber-attacks on Greek municipalities "
 banner = "img/cs-aware.png"
 authors = ["Elisavet Goutman"]
 +++
-## Lessons learnt from cyber-attacks on Greek municipalities 
 
 Just how hard is to describe the importance of a service whose value the customers cannot quite comprehend or quantify in order to invest in it in the Greek public sector? 
 

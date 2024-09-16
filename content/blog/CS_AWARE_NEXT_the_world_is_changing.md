@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## The world is changing…
 
 … and startups are considered as **agents of change.**
 

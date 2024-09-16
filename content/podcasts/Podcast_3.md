@@ -8,7 +8,6 @@ banner = "img/cs-aware-podcast.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-### 3 questions – 3 answers: Starting up for 2023 with a discussion on ‘AI, the Universe and Everything’ with two Datrix C-level executives
 
 We are happy to announce the third podcast with Pierluigi Vacca and Matteo Bregonzio of Datrix, Italy.
 

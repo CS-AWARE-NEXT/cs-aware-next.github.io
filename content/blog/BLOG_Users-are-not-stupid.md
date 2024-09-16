@@ -9,7 +9,6 @@ authors = ["John Forrester"]
 +++
 
 
-## Users are not stupid
 
 This article from Julie Haney of NIST deals with some of the misconceptions and pitfalls that cyber security professionals fall victim to. These pitfalls reflect a tendency in the cyber security community “to focus and depend on technology to solve today’s security problems while at the same time failing to appreciate the human element: the individual and social factors affecting security adoption.” 
 

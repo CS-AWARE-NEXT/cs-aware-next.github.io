@@ -9,8 +9,6 @@ authors = ["Angelos Alevizopoulos"]
 +++
 
 
-## The Risk of Misinformation and Disinformation in Cyber Threat Intelligence Communities
-
 The ever-growing digital landscape presents organisations with a double-edged sword: vast amounts of data on cyber threats and the challenge of sifting through it all. Here's where **Cyber Threat Intelligence (CTI)** comes in. By analysing attacker behaviour and uncovering early signs of attacks, CTI empowers organisations to proactively defend themselves. However, a significant hurdle exists: **misinformation.**
 
 This misinformation comes in two forms: **accidental mistakes** (misinformation) and **deliberate deception** (disinformation). Both pose serious threats to CTI's effectiveness, eroding trust in shared intelligence and weakening cybersecurity defences.

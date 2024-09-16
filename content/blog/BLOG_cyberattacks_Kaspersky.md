@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["OTS"]
 +++
 
-## New investigation by Kaspersky on Cyber Attacks 
 
 Kaspersky has recently concluded an [investigation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-reports-attacks-on-industrial-sector-utilizing-cloud-infrastructure) into cyber-attacks targeting the industrial sector in Eastern Europe. The investigation has revealed the employment of advanced tactics, techniques, and procedures (TTPs) by threat actors to compromise industrial organizations in the region. Industries such as manufacturing, industrial control system (ICS) engineering and integration have been particularly affected, emphasizing the urgent need for enhanced cybersecurity preparedness.
 

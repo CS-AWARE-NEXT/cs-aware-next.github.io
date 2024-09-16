@@ -8,7 +8,6 @@ banner = "img/cs-aware-podcast.png"
 authors = ["Adamantios Koumpis", "Elisavet Goutman"]
 +++
 
-### 3 questions – 3 answers: The first CS-AWARE-NEXT Podcast
 
 We start today with a podcast in Greek with Elisavet Goutman, Business Development and Marketing Manager of OTS in Greece.
 

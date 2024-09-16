@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-## Turning the Internet into a meaningful (data) space!
 
 Last week I attended the works of the [1st International Conference on FAIR Digital Objects](https://www.fdo2022.org/). One may wonder what FAIR Digital Objects are – and then visit the Web page of the [Fair Digital Objects](https://fairdo.org/) Forum to learn more.
 

@@ -8,7 +8,6 @@ banner = "img/cs-aware-podcast.png"
 authors = ["Adamantios Koumpis"]
 +++
 
-### 3 questions – 3 answers: The first CS-AWARE-NEXT Podcast
 
  We are happy to announce the first CS-AWARE-NEXT Podcast with Chris Wills!
 

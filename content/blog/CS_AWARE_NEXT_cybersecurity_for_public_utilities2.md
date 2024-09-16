@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["John Forrester"]
 +++
 
-## Cybersecurity For Public Utilities Solutions II
 
 Cyberattacks launched on municipal utility companies are similar to attacks in any other industry. However, the potential for OT attacks and the dangers of a major service disruption has raised the stakes. Miller outlines in this article [1] the most common cybersecurity attacks that have affected municipal utility companies. 
 

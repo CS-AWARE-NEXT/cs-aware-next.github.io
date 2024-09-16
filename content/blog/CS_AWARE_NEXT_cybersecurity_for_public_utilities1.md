@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["John Forrester"]
 +++
 
-## Cybersecurity For Public Utilities Solutions I
 
 In 2021 Jason Miller wrote an article on cybersecurity for municipal utilities stressing that cyber-attacks were increasing every year and greatly impacting a wide range of high-profile targets from governmental agencies to financial and insurance organizations, hospitals and other health facilities, and educational institutions.  Of particular concern in many countries, he points out, is the situation on local levels where local governments with municipal utilities are often under-funded with poorly trained staff [1]. Unfortunately, the solutions he offers do not take into account the range of problems facing municipal utilities. Many are not aware, however, of how municipal utilities have become targets for “nation-state actors” and the possibly disastrous effects of an attack.  
 

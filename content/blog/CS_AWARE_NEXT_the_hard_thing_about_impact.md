@@ -9,7 +9,6 @@ authors = ["Adamantios Koumpis"]
 +++
 
 
-## The hard thing about impact
 
 It is now over 8 years that the ‘Hard Thing about Hard Things’ has become a best-selling reader on entrepreneurship. The reason that the audience liked the book may be because the author is not afraid to take for granted that mistakes happen and are an inevitable, or as I prefer to call: a ‘shadow capital’ for every enterprise and venture.
 

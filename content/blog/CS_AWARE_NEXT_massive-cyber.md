@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Elisavet Goutman"]
 +++
 
-## Massive increase in cyber attacks in 2022
 
 
 Universities, research centers, state and military services, hospitals, communication infrastructure and banks have received numerous cyberattacks in 2022; and the worst is yet to come.

@@ -9,7 +9,6 @@ authors = ["John Forrester"]
 +++
 
 
-## How Local and Regional Authorities can improve their ransomware defenses
 A recent study done by the National Association of State CIOs (NASCiO) and Deloitte found in the US 75% of state  CISOs view ransomware as a threat. As this Govloop report reported “…there’s good reason for that.  A number of factos, the report notes that combine to make local and regional governments particularly vulnerable to this attack”.
 
  * High impact: Ransomeware is capable of causing an organization’s operations to a halt. As an attack it is one of the most likely facing local and regional organizations. 

@@ -9,7 +9,6 @@ authors = ["Elisavet Goutman"]
 +++
 
 
-## Cybersecurity challenges in Greek companies – Study by EY Greece and Microsoft
 
 ΕΥ Greece and Microsoft have carried out a study on the challenges concerning cybersecurity in Greece. The study attempts, for the first time in the Greek market, to thoroughly analyse the current national and European legal and regulatory framework of cybersecurity. European regulations, such as NIS, NIS II and CERD, the main legal acts on cybersecurity in Greece (4577/2018, 4961/2022), their field of practice and the next steps for the compliance of the Greek companies with those, are presented in the study. In addition, the study describes the goals and the respective actions of the National Cyber Security Strategy 2020-2025 that was presented by the Ministry of Digital Governance.
 

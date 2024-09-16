@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Vittorio Scarano and the CERICT-UNISA Team"]
 +++
 
-## Welcome CS-Connect! 
 
 In CS-AWARE-NEXT, the role of our unit, CERICT-Università di Salerno, is to design, develop and evaluate, a collaboration layer for the ecosystem, aimed to support the organisations in their activities toward improved security. 
 

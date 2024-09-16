@@ -8,7 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["Alex Papanikolaou"]
 +++
 
-## Supervised vs automated response to cyberthreats
 
 Cyberthreats are continually becoming more sophisticated, thus creating a demand for an equally advanced threat detection and response. Detection of cyberthreats can very much benefit from the adoption of AI, as it is able to detect attack patterns and perform correlations among various security-related events. However, when it comes to incident handling, a fully AI-enabled approach may actually cause more harm than good, due to the critical human factors involved.
 
