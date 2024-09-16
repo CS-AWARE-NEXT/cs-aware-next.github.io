@@ -9,8 +9,6 @@ authors = ["University of Oulu"]
 +++
 
 
-## The Crowdstrike Falcon outage
-
 A faulty update was distributed to a cybersecurity software called The Falcon Sensor, provided by the company Crowdstrike. The botched update to the configuration files of the kernel-level vulnerability scanner caused an out-of-bounds memory read operation that resulted in affected machines booting over and over again. The fault was found and a fix was distributed within 12 hours, but damage had already been caused. Manually fixing the affected machines would take a lot longer. A total of over 8.5 million Windows systems had crashed, causing a multitude of different businesses to have their services to be hindered or even completely halted, including airlines, banks, different government agencies, railway traffic, and media companies.
  
 The financial impact on Crowdstrike will be significant, not only in terms of the immediate costs associated with the upcoming lawsuits, but also potential long-term damage to their reputation and customer trust.
