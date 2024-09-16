@@ -1,6 +1,6 @@
 +++
 title = "Dangerous malware in Greece"
-date = "2024-09-16T10:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2024-09-15T10:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["Malware", "Greece"]
 categories = ["all"]
 description = "Dangerous malware in Greece"
