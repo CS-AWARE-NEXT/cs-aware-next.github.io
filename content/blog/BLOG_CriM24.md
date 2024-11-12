@@ -11,7 +11,7 @@ authors = ["Juho Bruun"]
 
 The yearly cyber security seminar CriM is upon us once again! We are glad to host three days of expert lectures on this year's topic: CyberSec in Muumimaa - Finnish Cybersecurity in a changing world.
 
-Alongside with the expert lectures, there is a workshop on TPM 2.0 and a two-afternoon hackathon on AI Security focused on Large Language Models. The 100+ attendants will get acquainted with TPM2.0 security, prompt engineering, and the latest LLM security testing tools.
+Alongside with the expert lectures, there is a workshop on TPM 2.0 and a two-afternoon hackathon on AI Security focused on Large Language Models. The 100+ attendants from the industry and University of Oulu will get acquainted with TPM2.0 security, prompt engineering, and the latest LLM security testing tools.
 
 
 Further information at: https://www.oulu.fi/en/crim
