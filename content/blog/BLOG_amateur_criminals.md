@@ -13,7 +13,8 @@ The report sheds a light on the tools and the methods that are used by organized
 The study by Kasperksy reveals recent ransomware attacks, which take advantage of the source code leaks, by allowing the attackers to locate their victims and reproduce fast any malware activity, thus constituting them a significant threat. 
 Last April, the SEXi team attacked IxMetro, by using a recent ransomware variation called SEXi. This group targets ESXi apps while all the recognized victims used versions of the apps that were not supported. 
 SEXi uses different ransomware versions for every platform – Bakuk for Linus and Lockbit for Windows. They are, also, the only ones using this Session app for communication, with a unified ID for multiple attacks. This lack of professionalism and the absence of a TOR leak website made them stand out even more. 
-Source code leaks
+
+### Source code leaks
 Key Group, also known as keygroup777, has used eight different ransomware categories since its founding, April 2022. The techniques and resilience mechanisms that they use evolve with every new variation. The UX- cryptor, for example, used many registry logs for resilience, while Chaos variation had a different approach, that is related to the starting file. 
 Despite its alternative methods, Key Group is famous for its unprofessional way of work, including the use of a public GitHub repository for communication C2 and Telegram for interaction, my making their monitoring easier. 
 Kaspersky notes: “the ability to exclude new ransomware has vertically dropped. With digitized ransomware and subsidiaries programs, even young digital criminals pose a significant threat. While the groups that use variation leaks lack high level of professionalism, they owe their efficiency in successful collaboration programs or targeting as can be seen from KeyGroup and SEXi. The publish and leak of ransomware variations are important threats for organisations and citizens alike”. 
