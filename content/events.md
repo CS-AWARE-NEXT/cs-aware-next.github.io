@@ -6,6 +6,15 @@ draft: false
 
 ***
 
+### Frontiers in Medicine, Vol 11 (2024)
+####  May 2024
+
+
+[**Cybersecurity policy framework requirements for the establishment of highly interoperable and interconnected health data spaces**](https://doi.org/10.3389/fmed.2024.1379852)  
+Authors: _Christian Luidold, Christoph Jungbauer_
+
+***
+
 ### IEEE International conference on Big Data
 #### December 5th, 2023 in Sorrento, Italy
 
