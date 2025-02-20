@@ -122,7 +122,7 @@ pagination.pagerSize = 10
 [[menu.main]]
     identifier = "publications"
     name       = "Publications"
-    url        = "/publication/"
+    url        = "/publications/"
     weight     = 4
 
 [[menu.main]]
