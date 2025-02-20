@@ -96,8 +96,8 @@ pagination.pagerSize = 10
     parent     = "section.visibility"
 
 [[menu.main]]
-    name       = "Events"
-    url        = "/events/"
+    name       = "Publications"
+    url        = "/publications/"
     weight     = 1
     parent     = "section.visibility"    
 
