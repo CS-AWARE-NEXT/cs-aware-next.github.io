@@ -122,7 +122,7 @@ paginate = 10
 [[menu.main]]
     identifier = "publications"
     name       = "Publications"
-    url        = "/events/"
+    url        = "/publication/"
     weight     = 4
 
 [[menu.main]]
