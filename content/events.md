@@ -6,6 +6,14 @@ draft: false
 
 ***
 
+### IEEE Access, Vol 12
+#### December 4h, 2024
+
+[**Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions**](https://doi.org/10.1109/ACCESS.2024.3511039)
+Authors: _Tiziano Citro, Maria Angela Pellegrino, Carmine Spagnuolo_ 
+
+***
+
 ### Frontiers in Medicine, Vol 11 (2024)
 ####  May 2024
 
