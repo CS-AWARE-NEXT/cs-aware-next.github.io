@@ -16,10 +16,10 @@ And while the cybercriminals haven’t graduated from the Jedi Academy, they can
 - They can borrow trust and authority by pretending to be someone you won’t question.
 - They can induce a sense of urgency, which impacts your judgement.
 
-*“You account has been compromised”*
-*“My account has been compromised!”*
-*“You must hurry, you have to click this link to secure it”*
-*“I must hurry, I have to click this link to secure it!”*
+*“You account has been compromised”*  
+*“My account has been compromised!”*  
+*“You must hurry, you have to click this link to secure it”*  
+*“I must hurry, I have to click this link to secure it!”*  
 
 Yes, sometimes that’s all it takes to get someone to click an unsafe link. Some people are more aware of the possibility of phishing attempts, until they are caught off guard. Or if the attempt sounds realistic enough. Or harmless enough. Human errors are one of the weakest links in the chain of cybersecurity. And, unfortunately, the cybercriminals are very much aware of this fact.
 
