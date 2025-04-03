@@ -8,8 +8,6 @@ banner = "img/cs-aware.png"
 authors = ["CeSViTer Consulting"]
 +++
 
-**Cybersecurity in Italian Municipalities: A Growing Emergency**
-
 In recent years, the digitalization of Public Administration has increasingly exposed the
 cybersecurity vulnerabilities of Italian municipalities. Hacker attacks are multiplying, targeting public
 offices and essential services, while institutions struggle to respond with new regulations and
