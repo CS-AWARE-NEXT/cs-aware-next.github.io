@@ -8,6 +8,7 @@ banner = "img/cs-aware.png"
 authors = ["OTS"]
 +++
 
+
 OTS Company, as a partner of the CS-AWARE-NEXT, represented the project at the international digital technology and innovation exhibition “Beyond”, which took place from 4 to 6 of April 2025 in Athens, Greece. 
 
 Beyond fosters the development of innovative technologies and business opportunities, while it aims at creating a hub that promotes collaboration and encourages the exchange of knowledge and ideas. It is a great opportunity for global innovators, researchers, and start-ups to connect. This year, the title of the exhibition was “AI Reality Bites” and focused on artificial intelligence and all the factors that come along as it integrates society. Cybersecurity was also a key theme: there were experts who demonstrated live, discussed in panels and showcased in workshops the importance of it and how a user or an organization can be safer online. 
