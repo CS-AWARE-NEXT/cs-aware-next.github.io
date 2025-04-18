@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 summaryLength = 70
 
 # Define the number of posts per page
-paginate = 10
+pagination.pagerSize = 10
 
 [menu]
 
@@ -96,8 +96,8 @@ paginate = 10
     parent     = "section.visibility"
 
 [[menu.main]]
-    name       = "Events"
-    url        = "/events/"
+    name       = "Publications"
+    url        = "/publications/"
     weight     = 1
     parent     = "section.visibility"    
 
@@ -122,7 +122,7 @@ paginate = 10
 [[menu.main]]
     identifier = "publications"
     name       = "Publications"
-    url        = "/events/"
+    url        = "/publications/"
     weight     = 4
 
 [[menu.main]]
