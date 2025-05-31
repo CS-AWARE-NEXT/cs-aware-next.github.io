@@ -1,6 +1,6 @@
 +++
 title = "Greek companies have the weakest cybersecurity"
-date = "2023-10-11T13:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2025-05-30T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["Cybersecurity", "Greece"]
 categories = ["all"]
 description = "Greek companies have the weakest cybersecurity"
