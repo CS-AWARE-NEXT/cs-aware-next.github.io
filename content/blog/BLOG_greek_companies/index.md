@@ -18,7 +18,7 @@ In Greece, only 52% of businesses have adopted three or more cybersecurity measu
 
 *“There are two types of companies: those that have been attacked and those that have, but don’t know it yet.”*
 
-![statistics](../../public/img/blogs/enterprises-using-at-least-3-ict-security-measures-eu-2024.jpg)
+![statistics](./enterprises-using-at-least-3-ict-security-measures-eu-2024.jpg)
 
 With this statement, the head of the National Cybersecurity Authority, mr. Michalis Bletsas, recently highlighted the severity of the issue, also noting that the reason Greece has not suffered a major cybersecurity incident yet is "because we’re a small and not very juicy target”.
 
@@ -45,7 +45,7 @@ Incorporating cybersecurity measures remains a challenge, especially in smaller 
 
 Kaspersky's 2024 report, places Greece at the top of a global list of countries with the most dangerous online environments. More than 1 in 5 Greeks (22%) were targeted by at least one malware attack in the past year.
 
-![statistics](../../public/img/blogs/ict-security-measures-used-by-eu-enterprises-2024.jpg)
+![statistics](./ict-security-measures-used-by-eu-enterprises-2024.jpg)
 
 
 This troubling figure, based on attacks blocked by Kaspersky’s systems, ranks Greece as the most vulnerable among the top 20 most dangerous countries for internet use globally. Except for Slovakia, no other EU country appears on the list, with Greece faring worse than countries like Peru, Ecuador, Qatar, and Tunisia.
