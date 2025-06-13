@@ -10,7 +10,7 @@ authors = ["CeSViTer Consulting"]
 
 In recent years, Italy’s local governments have taken significant steps toward digital transformation. Fuelled by national reforms and EU recovery funds, more and more municipalities are bringing services online. Yet as digital adoption accelerates, a critical vulnerability has emerged: cybersecurity.
 
-## A More Digital Italy—Even at the Local Level?
+#### A More Digital Italy—Even at the Local Level?
 
 Digital innovation is no longer the exclusive domain of central ministries or major cities. Local governments across Italy are embracing new technologies at an unprecedented pace. The data speaks for itself:
 - 91% of municipalities have implemented digital ID systems (SPID or CIE)
@@ -20,7 +20,7 @@ Digital innovation is no longer the exclusive domain of central ministries or ma
 
 Cloud adoption is also growing: 51% of municipalities use cloud infrastructure, with a rising share relying on nationally certified platforms. The 2024–2026 National ICT Strategy for the Public Sector, alongside the National Recovery and Resilience Plan (PNRR), is driving the modernization effort.
 
-## The Digital Divide Has Moved… to Cybersecurity
+#### The Digital Divide Has Moved… to Cybersecurity
 
 As local governments increase their digital footprint, they also become more exposed to cyber threats. The main concern? Most public infrastructure is not yet ready to face these challenges.
 - 95% of public-sector data centers at the local level do not meet minimum security and reliability standards.
@@ -29,7 +29,7 @@ As local governments increase their digital footprint, they also become more exp
 
 Simply moving services to the cloud or digitizing documents won’t cut it. Without serious investments in protection, training, and data governance, the risk only grows.
 
-## New Rules, New Tools
+#### New Rules, New Tools
 
 There have been some key developments on the cybersecurity front:
 - The National Cybersecurity Agency (ACN) has established minimum cloud security requirements for public entities
@@ -38,7 +38,7 @@ There have been some key developments on the cybersecurity front:
 
 Still, there’s a large gap between policy and practice. Many municipalities face limitations in funding, skills, and institutional readiness.
 
-## What’s Really Needed?
+#### What’s Really Needed?
 
 Digitizing local government is about more than just “going online.” It requires:
 - Migrating to secure and certified infrastructures;
@@ -48,7 +48,7 @@ Digitizing local government is about more than just “going online.” It requi
 
 For many local administrations, this means a cultural transformation as much as a technical one.
 
-## Conclusion: From Efficiency to Resilience
+#### Conclusion: From Efficiency to Resilience
 
 Italy has made remarkable strides in digitizing its public services at the local level. But cybersecurity remains the missing piece—and a dangerous one to overlook. Security must be a core component of digital transformation, not an afterthought.
 
