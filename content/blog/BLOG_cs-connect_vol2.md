@@ -1,11 +1,9 @@
 +++
-title = "Inside CS-CONNECT: The open-source technology powering cybersecurity
-collaboration"
+title = "Inside CS-CONNECT: The open-source technology powering cybersecurity collaboration"
 date = "2025-06-24T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["CS-CONNECT", "Platform", "Technology"]
 categories = ["all", "status"]
-description = "Inside CS-CONNECT: The open-source technology powering cybersecurity
-collaboration"
+description = "Inside CS-CONNECT: The open-source technology powering cybersecurity collaboration"
 banner = "img/cs-aware.png"
 authors = ["UNISA/CeRICT"]
 +++
