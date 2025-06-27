@@ -1,6 +1,6 @@
 +++
 title = "Threats and challenges in Greece - Check Point Software – Cybersecurity 2025"
-date = "2025-06-18T13:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2025-06-27T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["Greece", "AI", "Cybersecurity"]
 categories = ["all"]
 description = "Threats and challenges in Greece - Check Point Software – Cybersecurity 2025"
