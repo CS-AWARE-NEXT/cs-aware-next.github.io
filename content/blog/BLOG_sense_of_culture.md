@@ -1,6 +1,6 @@
 +++
 title = "Need for cultural change regarding cybersecurity"
-date = "2025-07-07T13:00:00+02:00" ## please change and see the T separates Date and Time
+date = "2025-08-07T13:00:00+02:00" ## please change and see the T separates Date and Time
 tags = ["cybersecurity", "culture"]
 categories = ["all"]
 description = "Need for cultural change regarding cybersecurity"
