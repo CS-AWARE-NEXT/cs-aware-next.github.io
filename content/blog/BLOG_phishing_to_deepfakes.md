@@ -1,7 +1,7 @@
 +++
 title = "From Phishing to Deepfakes: The Evolution of Social Engineering"
-date = "2025-08-26T12:00:00+02:00"
-tags = ["cybersecurity", "phishing", "deepfakes"]
+date = "2025-08-26T08:00:00+02:00"
+tags = ["cybersecurity"]
 categories = ["all"]
 description = "From Phishing to Deepfakes: The Evolution of Social Engineering"
 banner = "img/cs-aware.png"
