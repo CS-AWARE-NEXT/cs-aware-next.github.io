@@ -13,5 +13,5 @@ On September 15th, a supply chain attack targeting the Node Package Manager (npm
 This attack targeting the open-source community behind npm highlights the need for sound cybersecurity measures even in high-trust environments like open-source development communities. Malware like the Shai-Hulud seen in this attack thrive in such environments and only need to compromise a single high enough agency account to deploy a wide ranging attack. 
 
 
-https://www.trendmicro.com/en_us/research/25/i/npm-supply-chain-attack.html
+https://www.trendmicro.com/en_us/research/25/i/npm-supply-chain-attack.html  
 https://unit42.paloaltonetworks.com/npm-supply-chain-attack/
