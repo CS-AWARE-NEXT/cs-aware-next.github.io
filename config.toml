@@ -96,6 +96,18 @@ pagination.pagerSize = 10
     parent     = "section.visibility"
 
 [[menu.main]]
+    name       = "Threads"
+    url        = "https://www.threads.com/@cs_aware_next"
+    weight     = 1
+    parent     = "section.visibility"
+
+[[menu.main]]
+    name       = "LinkedIn"
+    url        = "https://www.linkedin.com/company/103063443/"
+    weight     = 1
+    parent     = "section.visibility"
+
+[[menu.main]]
     name       = "Publications"
     url        = "/publications/"
     weight     = 1
