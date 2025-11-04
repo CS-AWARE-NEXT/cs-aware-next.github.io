@@ -5,7 +5,7 @@ tags = ["cyberthreats","response"]
 categories = ["all","status"]
 description = "Supervised vs automated response to cyberthreats"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolaou"]
+authors = ["InnoSec"]
 +++
 
 
