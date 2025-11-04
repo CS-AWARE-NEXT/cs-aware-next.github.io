@@ -5,7 +5,7 @@ tags = ["cybersecurity"]
 categories = ["all"]
 description = "From Phishing to Deepfakes: The Evolution of Social Engineering"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolau, InnoSec"]
+authors = ["Alex Papanikolaou"]
 +++
 
 For years, phishing emails were a very popular and effective tool for cybercriminals. They contained messages pretending to be from the recipient’s bank or a familiar company, designed to steal the victim’s login details. While phishing is still common, social engineering has evolved far beyond those emails. Contemporary scammers are using more sophisticated techniques, blending psychology with technology to manipulate people into giving up information, money, or access.
