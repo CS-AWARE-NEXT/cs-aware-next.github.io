@@ -5,7 +5,7 @@ tags = ["cybersecurity", "cybercrime", "intel"]
 categories = ["all"]
 description = "How Threat Intel Tracks Emerging Scams"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolau, InnoSec"]
+authors = ["Alex Papanikolaou"]
 +++
 
 One might think online scams just appear out of thin air, but in reality, many of them start brewing in the darkest corners of the internet. On hidden websites and forums known collectively as “The Dark Web”, hackers and cybercriminals trade stolen data, sell scam templates, and even share tips on how to trick people more effectively. Cyberthreat intelligence (CTI) experts spend time monitoring these spaces to spot threats before they reach email inboxes or social media feeds.
