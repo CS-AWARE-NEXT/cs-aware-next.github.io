@@ -5,7 +5,7 @@ tags = ["Cybersecurity", "Hacking", "Intelligence"]
 categories = ["all"]
 description = "Inside the Mind of a Hacker: What Cyberthreat Intelligence Reveals"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolau, InnoSec"]
+authors = ["Alex Papanikolaou, InnoSec"]
 +++
 
 Ever wonder how cybersecurity experts know what hackers are planning? The answer lies in cyberthreat intelligence, a behind-the-scenes field that’s less about flashy firewalls and more about detective work. It’s like digital espionage, where analysts gather clues from hacker forums, dark web marketplaces, malware samples, and even leaked chats to understand who the attackers are, what they want, and how they operate.
