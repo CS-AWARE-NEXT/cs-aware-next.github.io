@@ -5,7 +5,7 @@ tags = ["Cybersecurity", "Threats", "Reconnaissance"]
 categories = ["all"]
 description = "Cybersecurity Crystal Ball: Predicting the Next Big Cyberthreat"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolaou"]
+authors = ["InnoSec"]
 +++
 
 Cyberattacks often seem to come out of nowhere, but behind the scenes, teams of cybersecurity experts are constantly scanning for warning signs. Through a process known as threat forecasting, analysts look at patterns in data, emerging technologies, hacker conversations, and even geopolitical shifts to predict what types of cyberattacks might happen next. It’s not magic, it’s cyberthreat intelligence.
