@@ -5,7 +5,7 @@ tags = ["cybersecurity", "cyberattack"]
 categories = ["all"]
 description = "Threat Maps – Spotting Cyberattacks Before They Happen"
 banner = "img/cs-aware.png"
-authors = ["Alex Papanikolau, InnoSec"]
+authors = ["Alex Papanikolaou"]
 +++
 
 When most people think about cyberattacks, they picture a sudden breach — an email hack, stolen credit card numbers, or a ransomware note popping up on a screen. But in reality, many attacks leave behind digital clues long before they strike. That’s where threat maps come in. These interactive tools show where attacks are happening around the world in real time, giving cybersecurity experts a bird’s-eye view of the global threat landscape.
