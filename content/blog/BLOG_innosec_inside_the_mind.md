@@ -15,6 +15,3 @@ Cyberthreat intelligence (CTI) helps organisations move from reacting to attacks
 What’s surprising to many is how structured and business-like some hacker groups have become. Cybercrime today often resembles an underground industry, complete with customer service, reviews, and outsourcing. CTI helps peel back the curtain on this hidden world, revealing who’s behind major ransomware attacks or phishing campaigns, and sometimes even linking them to nation-states or organised crime networks.
 
 For everyday users, the value of CTI shows up in subtle but critical ways, such as updated spam filters, safer banking apps, and alerts from your credit card company about suspicious activity. While one might never see a threat analyst at work, the insights they uncover play a major role in keeping our online life secure. In a world where cyberattacks are becoming smarter and more frequent, understanding the enemy is half the battle.
-
-Alex Papanikolaou  
-InnoSec, Greece
