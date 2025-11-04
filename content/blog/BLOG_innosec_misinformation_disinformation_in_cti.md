@@ -5,7 +5,7 @@ tags = ["Disinformation", "Misinformation", "CTI", "MISP", "Cerebrate", "Securit
 categories = ["all"]
 description = ""
 banner = "img/cs-aware.png"
-authors = ["Angelos Alevizopoulos"]
+authors = ["InnoSec"]
 +++
 
 
